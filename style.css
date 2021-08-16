@@ -1,0 +1,43 @@
+* {
+	margin: 0px 2px 2px 0px;
+}
+body {
+	background-color: #ded9ff;
+	font-family: "Lemon Milk", Sans-serif;
+}
+h1#title {
+	background-color: #b7abff;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+h1#title:hover {
+	color: #58508c;
+}
+div#subtitle {
+	font-style: italic;
+	font-size: 0.65em;
+	text-align: center;
+	border-bottom: dashed 2px;
+}
+img {
+	width: 25%;
+	margin-top: 10px;
+	float: left;
+	margin-right: 10px;
+}
+p {
+	font-size: 0.95em;
+	background-color: white;
+	padding: 5px 5px 5px 10px;
+	box-sizing: border-box;
+	width: 25%;
+	float: left;
+	clear: left;
+}
+ul {
+	margin-top: 10px;
+	position: relative;
+	left: 3%;
+	line-height: 50px;
+}
